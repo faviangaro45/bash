@@ -1,0 +1,26 @@
+  
+fabian garcia: individuo al que le gusta programar computadoras
+  [ http://www.faviangaro1973.tripod.com ]
+  categoria:[[Categoria:diccionario|personajes]]
+: 
+amor: es la relacion que Dios tiene con los hombres, y la entrega del amigo que es Jesucristo por el hombre
+  [  ]
+  categoria:[[Categoria:diccionario|amor]]
+evangelio: buena nueva,historia ,doctrina y milagros de Jesucristo que aparece en cuetro libros
+  [  ]
+  categoria:[[Categoria:diccionario|bliblia]]
+jquery: es un frameword de javascript que es una libreria de codigo que contiene funcionaes para realizar tareas
+  [ http://www.jquery.com ]
+  categoria:[[Categoría:diccionario|javascript]]
+wifa: script en bash que es un diccionario al estilo wiki de definicion de conceptos version 1.1
+  [  ]
+  categoria:[[Categoria:diccionario|bash]]
+programa: es una lista de instrucciones detalladas que siguie la computadora
+  [  ]
+  categoria:[[Categoria:diccionario|programacion]]
+ordenador: es una caja que representa numeros ,letras y palabras en forma de simbolos electronicos
+  [  ]
+  categoria:[[Categoria:diccionario|computacion]]
+script: son secuencias de instrucciones para hacer un trabajo util en una computadora
+  [  ]
+  categoria:[[Categoria:diccionario|programacion]]
