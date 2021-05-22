@@ -2,13 +2,7 @@
 fabian garcia: individuo al que le gusta programar computadoras
   [ http://www.faviangaro1973.tripod.com ]
   categoria:[[Categoria:diccionario|personajes]]
-: 
-amor: es la relacion que Dios tiene con los hombres, y la entrega del amigo que es Jesucristo por el hombre
-  [  ]
-  categoria:[[Categoria:diccionario|amor]]
-evangelio: buena nueva,historia ,doctrina y milagros de Jesucristo que aparece en cuetro libros
-  [  ]
-  categoria:[[Categoria:diccionario|bliblia]]
+  
 jquery: es un frameword de javascript que es una libreria de codigo que contiene funcionaes para realizar tareas
   [ http://www.jquery.com ]
   categoria:[[Categoría:diccionario|javascript]]
